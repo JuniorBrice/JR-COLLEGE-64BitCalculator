@@ -22,7 +22,7 @@ precision for the output as well; 1 signed bit and 7 numerical bits).
 ➔ The exponent operation will only work with positive inputs, and output
 up to 7-bits of precision (i.e., a maximum calculation of 27 due output bus size)
 
-**Architecture Visualization: **
+**Architecture Visualization:**
 
 ![architecture visualization](https://github.com/JuniorBrice/JR-COLLEGE-8BitFastCalculator/assets/79341423/d1763295-6638-40b7-859d-d992b14b48a2)
 
